@@ -4,5 +4,6 @@
 /*.name
 /*.iml
 libraries/
-target/
+..target/
+sonarlint/
 .idea/
