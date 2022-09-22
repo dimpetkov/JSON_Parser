@@ -1,0 +1,17 @@
+https://www.digitalocean.com/community/tutorials/jackson-json-java-parser-api-example-tutorial
+https://www.digitalocean.com/community/tutorials/java-json-example
+https://reflectoring.io/jackson/
+
+
+[{"firstName":"Lower","lastName":"Student","rank":2.9},
+{"firstName":"Middle","lastName":"Student","rank":3.0},
+{"firstName":"Upper","lastName":"Student","rank":4.0}]
+
+
+
+
+This file contains information about students with average rank.
+We should write this information in two different files:
+in first file we write the students with rank lower than 3.
+Information about other students will be written in second file.
+
