@@ -1,4 +1,4 @@
-package users_rank;
+package models_rank;
 
 import models.Student;
 

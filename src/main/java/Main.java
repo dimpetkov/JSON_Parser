@@ -2,8 +2,8 @@ import java.io.*;
 import static common.Messages.*;
 import static json_processor.JsonReader.studentsJsonDetailsReader;
 import static json_processor.JsonWriter.jsonFileWriter;
-import users_rank.LowGradeStudents;
-import users_rank.UpperGradeStudents;
+import models_rank.LowGradeStudents;
+import models_rank.UpperGradeStudents;
 
 public class Main {
 
