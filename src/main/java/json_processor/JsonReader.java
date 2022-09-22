@@ -1,4 +1,4 @@
-package json_parse;
+package json_processor;
 
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;

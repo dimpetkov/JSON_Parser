@@ -1,7 +1,7 @@
 import java.io.*;
 import static common.Messages.*;
-import static json_parse.JsonReader.studentsJsonDetailsReader;
-import static json_parse.JsonWriter.jsonFileWriter;
+import static json_processor.JsonReader.studentsJsonDetailsReader;
+import static json_processor.JsonWriter.jsonFileWriter;
 import users_rank.LowGradeStudents;
 import users_rank.UpperGradeStudents;
 
