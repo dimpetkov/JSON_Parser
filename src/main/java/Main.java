@@ -9,10 +9,10 @@ public class Main {
 
     public static void main(String[] args) throws IOException {
 
-         jsonFileWriter(new LowGradeStudents().rankStudent(studentsJsonDetailsReader(JSON_FILE)),
+         jsonFileWriter(new LowGradeStudents().filterStudent(studentsJsonDetailsReader(JSON_FILE)),
                  LOWER_STUDENTS_JSON_FILE);
 
-         jsonFileWriter(new UpperGradeStudents().rankStudent(studentsJsonDetailsReader(JSON_FILE)),
+         jsonFileWriter(new UpperGradeStudents().filterStudent(studentsJsonDetailsReader(JSON_FILE)),
                  UPPER_STUDENTS_JSON_FILE);
 
     }

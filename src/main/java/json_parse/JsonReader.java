@@ -2,7 +2,7 @@ package json_parse;
 
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import users.Student;
+import models.Student;
 
 import java.io.IOException;
 import java.nio.file.Paths;
